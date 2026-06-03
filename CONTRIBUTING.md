@@ -1,3 +1,4 @@
+![Uploading 593560705-1a920eb5-e581-44ce-bcef-2ebf0566777f.png…]()
 # Contributing Guidelines
 
 Thank you for contributing to agent-playground!
